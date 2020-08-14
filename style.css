@@ -1,0 +1,34 @@
+body {
+  background: #f37176;
+  color: #84ddff;
+}
+
+body div {
+  background: #f37176;
+  width: 31.25%;
+}
+
+body article {
+  background: #f37176;
+  border: 1px solid #84ddff;
+  border-radius: 10px;
+  width: 62.5%;
+}
+
+footer {
+  background: #f37176;
+}
+
+.success, .error {
+  border: 2px solid green;
+  padding: 20px;
+}
+
+.success {
+  background: green;
+}
+
+.error {
+  background: red;
+}
+/*# sourceMappingURL=style.css.map */
